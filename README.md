@@ -12,7 +12,7 @@ I made this project because I didn't use Spotify, but I wanted another cool way 
 ![enter image description here](https://drive.google.com/uc?id=1RuzDLVnXD1imldTDTChhIiO8EIjR9pJG)
 ![enter image description here](https://drive.google.com/uc?id=1wb7zGH-jrFnf7nwDyOAayiEDh-ZjwJSK)
 
-## Bill of Materials
+## Bill of Materials (FUNDING NO LONGER NEEDED)
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | LCD Screen Module ST7735 | The screen for the spotify case. | - | $4.47$ | [Link](https://www.aliexpress.us/item/3256810492600776.html) | Aliexpress |
