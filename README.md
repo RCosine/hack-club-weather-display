@@ -7,6 +7,7 @@ I made this project because I didn't use Spotify, but I wanted another cool way 
 
 ## Images
 ![something](https://drive.google.com/uc?id=1mmNWLacFC_LbWsWj3LHKwAhdziOK_UMs)
+![something](https://drive.usercontent.google.com/download?id=1Yst77waOM8JArN_ssiY8-q0608anwsFR&authuser=0)
 ![enter image description here](https://drive.google.com/uc?id=1W8qdjCS_JmhejnSL-92CIec4NBc2ZQoO)
 ![enter image description here](https://drive.google.com/uc?id=1RuzDLVnXD1imldTDTChhIiO8EIjR9pJG)
 ![enter image description here](https://drive.google.com/uc?id=1wb7zGH-jrFnf7nwDyOAayiEDh-ZjwJSK)
